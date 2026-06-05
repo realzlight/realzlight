@@ -1,6 +1,6 @@
 <h1>ZLIGHT</h1>
 
-<p><strong>Systems Design&nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; UI/UX Designer</strong></p>
+<p><strong>Systems Deesign&nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; UI/UX Designer</strong></p>
 
 <p>
   I build structured, purposeful software from interfaces people feel to systems that hold under pressure.
