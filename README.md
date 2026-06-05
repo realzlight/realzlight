@@ -3,7 +3,7 @@
 <p><strong>Systems Design&nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; UI/UX Designer</strong></p>
 
 <p>
-  I build structured, purposeful software — from interfaces people feel to systems that hold under pressure.
+  I build structured, purposeful software from interfaces people feel to systems that hold under pressure.
   Currently focused on developer tooling and full-stack product architecture.
 </p>
 
@@ -44,14 +44,14 @@
 <h2>Approach</h2>
 
 <p>
-  I don't separate engineering from design. Good software is intentional at every layer —
-  from data models to hover states. I work on things I'd use myself — tools that respect
+  I don't separate engineering from design. Good software is intentional at every layer 
+  from data models to hover states. I work on things I'd use myself tools that respect
   the developer's time and reduce noise.
 </p>
 
 ---
 
-<p><em>Currently building. Not much to say yet — the work will.</em></p>
+<p><em>Currently building and learning. Not much to say yet</em></p>
 
 ---
 
